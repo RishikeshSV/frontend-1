@@ -4,7 +4,8 @@ body {
 }
 
 .container {
-  margin: 20px;
+  margin: 8%;
+  margin-top: 10px;
 }
 
 .nav {
@@ -24,4 +25,10 @@ body {
   margin: 10px;
   font-size: 1.1rem;
   letter-spacing: 2px;
+}
+
+.big-image {
+  background-color: white;
+  padding: 20px;
+  margin-top: 10px;
 }
