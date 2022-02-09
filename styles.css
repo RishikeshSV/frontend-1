@@ -47,3 +47,7 @@ body {
   width: 100%;
   max-height: 167px;
 }
+
+.image-desc {
+  display: flex;
+}
