@@ -1,0 +1,27 @@
+body {
+  margin: 0px;
+  background-color: #b3cccc;
+}
+
+.container {
+  margin: 20px;
+}
+
+.nav {
+  background-color: white;
+  padding: 10px;
+}
+.search-bar {
+  float: right;
+  vertical-align: middle;
+  line-height: 38px;
+  display: flex;
+  width: 40%;
+}
+.nav-items {
+  background: none;
+  border: none;
+  margin: 10px;
+  font-size: 1.1rem;
+  letter-spacing: 2px;
+}
